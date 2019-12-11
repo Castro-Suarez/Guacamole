@@ -1,0 +1,4 @@
+ingredients.txt
+$nano ingredients.txt
+$pwd
+
